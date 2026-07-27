@@ -1,0 +1,5 @@
+Country: Pakistan
+Peak Date: 2022-01-30
+Peak Cases: 49994
+Average Daily Cases: 944.22
+Total Cases: 1580631
